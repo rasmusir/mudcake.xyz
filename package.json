@@ -1,0 +1,23 @@
+{
+  "name": "mudcake.xyz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasmusir/mudcake.xyz.git"
+  },
+  "author": "Rasmus Israelsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasmusir/mudcake.xyz/issues"
+  },
+  "homepage": "https://github.com/rasmusir/mudcake.xyz#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "watchify": "^3.7.0"
+  }
+}
